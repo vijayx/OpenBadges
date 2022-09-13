@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "http://vijayx.github.io/openbadge/issuer-organization.json",
+    "id": "http://vijayx.github.io/OpenBadges/issuer-organization.json",
     "type": "Issuer",
     "name": "ABPD",
     "url": "https://sandbox.roc-p.com"
