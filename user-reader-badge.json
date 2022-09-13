@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://vijayx.github.io/openbadge/thejeshgn-reader-badge.json",
+    "id": "https://vijayx.github.io/openbadge/user-reader-badge.json",
     "recipient":
     {
         "type": "email",
