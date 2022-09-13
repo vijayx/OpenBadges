@@ -1,10 +1,10 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://vijayx.github.io/openbadge/reader-badge.json",
+    "id": "https://vijayx.github.io/OpenBadges/reader-badge.json",
     "type": "BadgeClass",
     "name": "Volunteer",
     "description": "Sample description of the Volunteer badge.",
     "image": "https://github.com/vijayx/OpenBadges/blob/main/badge.png",
     "alignment": [ ],
-    "issuer": "http://vijayx.github.io/openbadge/issuer-organization.json"
+    "issuer": "http://vijayx.github.io/OpenBadges/issuer-organization.json"
 }
