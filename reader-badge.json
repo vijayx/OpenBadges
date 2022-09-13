@@ -4,7 +4,7 @@
     "type": "BadgeClass",
     "name": "Volunteer",
     "description": "Sample description of the Volunteer badge.",
-    "image": "file:///C:/Users/Daffolap-882/Desktop/test.png",
+    "image": "https://vijayx.github.io/OpenBadges/badge.png",
     "alignment": [ ],
     "criteria": "https://sandbox.roc-p.com/ROC-P/Admin/Config/Digital-Badges/Digital-Badges-Detail.aspx?DigitalBadge_Id=7",
     "issuer": "http://vijayx.github.io/OpenBadges/issuer-organization.json"
