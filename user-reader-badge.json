@@ -1,14 +1,14 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://vijayx.github.io/openbadge/user-reader-badge.json",
+    "id": "https://vijayx.github.io/OpenBadges/user-reader-badge.json",
     "recipient":
     {
         "type": "email",
         "hashed": false,
         "identity": "vijay.joshi@daffodilsw.com"
     },
-    "badge": "https://vijayx.github.io/openbadge/reader-badge.json",
+    "badge": "https://vijayx.github.io/OpenBadges/reader-badge.json",
     "verification":
     {
         "type": "hosted"
