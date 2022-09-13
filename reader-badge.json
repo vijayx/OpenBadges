@@ -4,7 +4,7 @@
     "type": "BadgeClass",
     "name": "Volunteer",
     "description": "Sample description of the Volunteer badge.",
-    "image": "https://sandbox.roc-p.com/Telerik.Web.UI.WebResource.axd?imgid=ee667a05dbdd43bbabcfbd9b8008e140&type=rbi",
+    "image": "https://github.com/vijayx/OpenBadges/blob/main/badge.png",
     "alignment": [ ],
     "issuer": "http://vijayx.github.io/openbadge/issuer-organization.json"
 }
